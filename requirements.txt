@@ -1,5 +1,5 @@
 python==3.13.0
-torch==2.0.1
+torch==2.2.0
 torchvision==0.15.2
 ssd==0.1.0  # Note: You may need to adjust this.
 kagglehub
