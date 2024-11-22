@@ -1,0 +1,26 @@
+{
+  "title": "Single Shot MultiBox Detector (SSD) Implementation with PyTorch",
+  "description": "This notebook demonstrates the implementation of the Single Shot MultiBox Detector (SSD) object detection model using PyTorch. It utilizes a pre-trained VGG16 backbone and is trained on the Pascal VOC dataset. The notebook includes data loading, model definition, training, and visualization steps.",
+  "keywords": [
+    "SSD",
+    "object detection",
+    "PyTorch",
+    "computer vision",
+    "deep learning",
+    "Pascal VOC",
+    "VGG16",
+    "bounding boxes"
+  ],
+  "developer": "Harshita",
+  "date_created": "October 27, 2023",
+  "license": "MIT License",
+  "data_source": "Pascal VOC 2012 dataset",
+  "dependencies": [
+    "torch",
+    "torchvision",
+    "opencv-python",
+    "matplotlib",
+    "numpy"
+  ],
+  "usage": "1. Install the required dependencies using `pip install -r requirements.txt`.\n2. Download the Pascal VOC 2012 dataset.\n3. Run the notebook cells sequentially.\n4. Modify parameters as needed for your specific use case."
+}
